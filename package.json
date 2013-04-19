@@ -1,0 +1,25 @@
+{
+  "name": "pretty-assert",
+  "version": "0.0.1",
+  "description": "Export common predicates as asserts for testing",
+  "main": "lib/pretty-assert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vanceza/node-pretty-assert.git"
+  },
+  "keywords": [
+    "assert"
+  ],
+  "author": "Zachary Vance",
+  "license": "Public Domain",
+  "readmeFilename": "README.md",
+  "gitHead": "78c568b16482359a9306aef9cd80ef2dd701b17d",
+  "dependencies": {
+    "better-assert": ">= 1.0.0",
+    "underscore": ">= 1.4.4"
+  }
+}
+
